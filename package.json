@@ -1,0 +1,34 @@
+{
+  "name": "bollard-library",
+  "version": "0.1.0",
+  "author": "Lemiffe <lemiffe@lemiffe.com>",
+  "license": "MIT",
+  "main": "css/bollards.css",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lemiffe/bollard-library"
+  },
+  "files": [
+    "css",
+    "bollards",
+    "less",
+    "sass",
+    "countries.json"
+  ],
+  "devDependencies": {
+    "http-server": "14.1.1",
+    "less": "4.1.3",
+    "prettier": "2.7.1",
+    "svgo": "2.8.0"
+  },
+  "scripts": {
+    "fix": "npm prettier --write",
+    "ids": "python3 add-bollard-ids.py",
+    "prettier": "prettier \"**/*.{html,json,md,scss,less,yaml,yml,js}\"",
+    "start": "http-server -a localhost -p 8000",
+    "svgo:all": "find bollards | grep '\\.svg$' | xargs -Iz -n 1 npm svgo z && npm ids",
+    "svgo:min": "find bollards | grep '\\.svg$' | xargs -Iz -n 1 svgo z && npm ids",
+    "svgo": "svgo --pretty --indent=2 --precision=1",
+    "test": "npm prettier --list-different"
+  }
+}

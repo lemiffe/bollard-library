@@ -1,0 +1,2052 @@
+[
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Georgetown",
+    "code": "ac",
+    "continent": "Africa",
+    "iso": false,
+    "name": "Ascension Island"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Andorra la Vella",
+    "code": "ad",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Andorra"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Abu Dhabi",
+    "code": "ae",
+    "continent": "Asia",
+    "iso": true,
+    "name": "United Arab Emirates"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kabul",
+    "code": "af",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Afghanistan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "St. John's",
+    "code": "ag",
+    "continent": "North America",
+    "iso": true,
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "The Valley",
+    "code": "ai",
+    "continent": "North America",
+    "iso": true,
+    "name": "Anguilla"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tirana",
+    "code": "al",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Albania"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Yerevan",
+    "code": "am",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Armenia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Luanda",
+    "code": "ao",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Angola"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "aq",
+    "iso": true,
+    "name": "Antarctica"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Buenos Aires",
+    "code": "ar",
+    "continent": "South America",
+    "iso": true,
+    "name": "Argentina"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Pago Pago",
+    "code": "as",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "American Samoa"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Vienna",
+    "code": "at",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Austria"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Canberra",
+    "code": "au",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Australia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Oranjestad",
+    "code": "aw",
+    "continent": "South America",
+    "iso": true,
+    "name": "Aruba"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Mariehamn",
+    "code": "ax",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Aland Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Baku",
+    "code": "az",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Azerbaijan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Sarajevo",
+    "code": "ba",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bridgetown",
+    "code": "bb",
+    "continent": "North America",
+    "iso": true,
+    "name": "Barbados"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Dhaka",
+    "code": "bd",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Bangladesh"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Brussels",
+    "code": "be",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Belgium"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Ouagadougou",
+    "code": "bf",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Burkina Faso"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Sofia",
+    "code": "bg",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Bulgaria"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Manama",
+    "code": "bh",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Bahrain"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bujumbura",
+    "code": "bi",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Burundi"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Porto-Novo",
+    "code": "bj",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Benin"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Gustavia",
+    "code": "bl",
+    "continent": "North America",
+    "iso": true,
+    "name": "Saint Barth\u00e9lemy"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Hamilton",
+    "code": "bm",
+    "continent": "North America",
+    "iso": true,
+    "name": "Bermuda"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bandar Seri Begawan",
+    "code": "bn",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Brunei Darussalam"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Sucre",
+    "code": "bo",
+    "continent": "South America",
+    "iso": true,
+    "name": "Bolivia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kralendijk",
+    "code": "bq",
+    "continent": "South America",
+    "iso": true,
+    "name": "Bonaire, Sint Eustatius and Saba"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bras\u00c3\u00adlia",
+    "code": "br",
+    "continent": "South America",
+    "iso": true,
+    "name": "Brazil"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Nassau",
+    "code": "bs",
+    "continent": "North America",
+    "iso": true,
+    "name": "Bahamas"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Thimphu",
+    "code": "bt",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Bhutan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "bv",
+    "iso": true,
+    "name": "Bouvet Island"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Gaborone",
+    "code": "bw",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Botswana"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Minsk",
+    "code": "by",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Belarus"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Belmopan",
+    "code": "bz",
+    "continent": "North America",
+    "iso": true,
+    "name": "Belize"
+  },
+  {
+    "bollard": "bollards/ca-1f.svg",
+    "capital": "Ottawa",
+    "code": "ca",
+    "continent": "North America",
+    "iso": true,
+    "name": "Canada"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "West Island",
+    "code": "cc",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kinshasa",
+    "code": "cd",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Democratic Republic of the Congo"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bangui",
+    "code": "cf",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Central African Republic"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Brazzaville",
+    "code": "cg",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Republic of the Congo"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bern",
+    "code": "ch",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Switzerland"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Yamoussoukro",
+    "code": "ci",
+    "continent": "Africa",
+    "iso": true,
+    "name": "C\u00f4te d'Ivoire"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Avarua",
+    "code": "ck",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Cook Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Santiago",
+    "code": "cl",
+    "continent": "South America",
+    "iso": true,
+    "name": "Chile"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Yaound\u00e9",
+    "code": "cm",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Cameroon"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Beijing",
+    "code": "cn",
+    "continent": "Asia",
+    "iso": true,
+    "name": "China"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bogot\u00c3\u00a1",
+    "code": "co",
+    "continent": "South America",
+    "iso": true,
+    "name": "Colombia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "cp",
+    "iso": false,
+    "name": "Clipperton Island"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "San Jos\u00e9",
+    "code": "cr",
+    "continent": "North America",
+    "iso": true,
+    "name": "Costa Rica"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Havana",
+    "code": "cu",
+    "continent": "North America",
+    "iso": true,
+    "name": "Cuba"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Praia",
+    "code": "cv",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Cabo Verde"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Willemstad",
+    "code": "cw",
+    "continent": "South America",
+    "iso": true,
+    "name": "Cura\u00e7ao"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Flying Fish Cove",
+    "code": "cx",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Christmas Island"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Nicosia",
+    "code": "cy",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Cyprus"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Prague",
+    "code": "cz",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Czech Republic"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Berlin",
+    "code": "de",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Germany"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "dg",
+    "iso": false,
+    "name": "Diego Garcia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Djibouti",
+    "code": "dj",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Djibouti"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Copenhagen",
+    "code": "dk",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Denmark"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Roseau",
+    "code": "dm",
+    "continent": "North America",
+    "iso": true,
+    "name": "Dominica"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Santo Domingo",
+    "code": "do",
+    "continent": "North America",
+    "iso": true,
+    "name": "Dominican Republic"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Algiers",
+    "code": "dz",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Algeria"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "ea",
+    "iso": false,
+    "name": "Ceuta & Melilla"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Quito",
+    "code": "ec",
+    "continent": "South America",
+    "iso": true,
+    "name": "Ecuador"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tallinn",
+    "code": "ee",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Estonia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Cairo",
+    "code": "eg",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Egypt"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Laayoune",
+    "code": "eh",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Western Sahara"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Asmara",
+    "code": "er",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Eritrea"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Madrid",
+    "code": "es",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Spain"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Addis Ababa",
+    "code": "et",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Ethiopia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "eu",
+    "iso": false,
+    "name": "Europe"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Helsinki",
+    "code": "fi",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Finland"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Suva",
+    "code": "fj",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Fiji"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Stanley",
+    "code": "fk",
+    "continent": "South America",
+    "iso": true,
+    "name": "Falkland Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Palikir",
+    "code": "fm",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Federated States of Micronesia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "T\u00f3rshavn",
+    "code": "fo",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Faroe Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Paris",
+    "code": "fr",
+    "continent": "Europe",
+    "iso": true,
+    "name": "France"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Libreville",
+    "code": "ga",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Gabon"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "London",
+    "code": "gb",
+    "continent": "Europe",
+    "iso": true,
+    "name": "United Kingdom"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "St. George's",
+    "code": "gd",
+    "continent": "North America",
+    "iso": true,
+    "name": "Grenada"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tbilisi",
+    "code": "ge",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Georgia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Cayenne",
+    "code": "gf",
+    "continent": "South America",
+    "iso": true,
+    "name": "French Guiana"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Saint Peter Port",
+    "code": "gg",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Guernsey"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Accra",
+    "code": "gh",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Ghana"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Gibraltar",
+    "code": "gi",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Gibraltar"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Nuuk",
+    "code": "gl",
+    "continent": "North America",
+    "iso": true,
+    "name": "Greenland"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Banjul",
+    "code": "gm",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Gambia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Conakry",
+    "code": "gn",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Guinea"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Basse-Terre",
+    "code": "gp",
+    "continent": "North America",
+    "iso": true,
+    "name": "Guadeloupe"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Malabo",
+    "code": "gq",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Equatorial Guinea"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Athens",
+    "code": "gr",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Greece"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "King Edward Point",
+    "code": "gs",
+    "continent": "Antarctica",
+    "iso": true,
+    "name": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Guatemala City",
+    "code": "gt",
+    "continent": "North America",
+    "iso": true,
+    "name": "Guatemala"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Hag\u00c3\u00a5t\u00c3\u00b1a",
+    "code": "gu",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Guam"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bissau",
+    "code": "gw",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Guinea-Bissau"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Georgetown",
+    "code": "gy",
+    "continent": "South America",
+    "iso": true,
+    "name": "Guyana"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Hong Kong",
+    "code": "hk",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Hong Kong"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "hm",
+    "iso": true,
+    "name": "Heard Island and McDonald Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tegucigalpa",
+    "code": "hn",
+    "continent": "North America",
+    "iso": true,
+    "name": "Honduras"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Zagreb",
+    "code": "hr",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Croatia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Port-au-Prince",
+    "code": "ht",
+    "continent": "North America",
+    "iso": true,
+    "name": "Haiti"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Budapest",
+    "code": "hu",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Hungary"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "ic",
+    "iso": false,
+    "name": "Canary Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Jakarta",
+    "code": "id",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Indonesia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Dublin",
+    "code": "ie",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Ireland"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Jerusalem",
+    "code": "il",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Israel"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Douglas",
+    "code": "im",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Isle of Man"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "New Delhi",
+    "code": "in",
+    "continent": "Asia",
+    "iso": true,
+    "name": "India"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Diego Garcia",
+    "code": "io",
+    "continent": "Asia",
+    "iso": true,
+    "name": "British Indian Ocean Territory"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Baghdad",
+    "code": "iq",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Iraq"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tehran",
+    "code": "ir",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Iran"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Reykjavik",
+    "code": "is",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Iceland"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Rome",
+    "code": "it",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Italy"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Saint Helier",
+    "code": "je",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Jersey"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kingston",
+    "code": "jm",
+    "continent": "North America",
+    "iso": true,
+    "name": "Jamaica"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Amman",
+    "code": "jo",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Jordan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tokyo",
+    "code": "jp",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Japan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Nairobi",
+    "code": "ke",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Kenya"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bishkek",
+    "code": "kg",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Kyrgyzstan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Phnom Penh",
+    "code": "kh",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Cambodia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "South Tarawa",
+    "code": "ki",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Kiribati"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Moroni",
+    "code": "km",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Comoros"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Basseterre",
+    "code": "kn",
+    "continent": "North America",
+    "iso": true,
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Pyongyang",
+    "code": "kp",
+    "continent": "Asia",
+    "iso": true,
+    "name": "North Korea"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Seoul",
+    "code": "kr",
+    "continent": "Asia",
+    "iso": true,
+    "name": "South Korea"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kuwait City",
+    "code": "kw",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Kuwait"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "George Town",
+    "code": "ky",
+    "continent": "North America",
+    "iso": true,
+    "name": "Cayman Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Astana",
+    "code": "kz",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Kazakhstan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Vientiane",
+    "code": "la",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Laos"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Beirut",
+    "code": "lb",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Lebanon"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Castries",
+    "code": "lc",
+    "continent": "North America",
+    "iso": true,
+    "name": "Saint Lucia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Vaduz",
+    "code": "li",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Liechtenstein"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Sri Jayawardenepura Kotte, Colombo",
+    "code": "lk",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Sri Lanka"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Monrovia",
+    "code": "lr",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Liberia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Maseru",
+    "code": "ls",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Lesotho"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Vilnius",
+    "code": "lt",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Lithuania"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Luxembourg City",
+    "code": "lu",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Luxembourg"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Riga",
+    "code": "lv",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Latvia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tripoli",
+    "code": "ly",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Libya"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Rabat",
+    "code": "ma",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Morocco"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Monaco",
+    "code": "mc",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Monaco"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Chi\u0219in\u0103u",
+    "code": "md",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Moldova"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Podgorica",
+    "code": "me",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Montenegro"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Marigot",
+    "code": "mf",
+    "continent": "North America",
+    "iso": true,
+    "name": "Saint Martin"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Antananarivo",
+    "code": "mg",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Madagascar"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Majuro",
+    "code": "mh",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Marshall Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Skopje",
+    "code": "mk",
+    "continent": "Europe",
+    "iso": true,
+    "name": "North Macedonia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bamako",
+    "code": "ml",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Mali"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Naypyidaw",
+    "code": "mm",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Myanmar"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Ulaanbaatar",
+    "code": "mn",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Mongolia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Macau",
+    "code": "mo",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Macau"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Saipan",
+    "code": "mp",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Northern Mariana Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Fort-de-France",
+    "code": "mq",
+    "continent": "North America",
+    "iso": true,
+    "name": "Martinique"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Nouakchott",
+    "code": "mr",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Mauritania"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Little Bay, Brades, Plymouth",
+    "code": "ms",
+    "continent": "North America",
+    "iso": true,
+    "name": "Montserrat"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Valletta",
+    "code": "mt",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Malta"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Port Louis",
+    "code": "mu",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Mauritius"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Mal\u00e9",
+    "code": "mv",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Maldives"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Lilongwe",
+    "code": "mw",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Malawi"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Mexico City",
+    "code": "mx",
+    "continent": "North America",
+    "iso": true,
+    "name": "Mexico"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kuala Lumpur",
+    "code": "my",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Malaysia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Maputo",
+    "code": "mz",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Mozambique"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Windhoek",
+    "code": "na",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Namibia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Noum\u00e9a",
+    "code": "nc",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "New Caledonia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Niamey",
+    "code": "ne",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Niger"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kingston",
+    "code": "nf",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Norfolk Island"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Abuja",
+    "code": "ng",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Nigeria"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Managua",
+    "code": "ni",
+    "continent": "North America",
+    "iso": true,
+    "name": "Nicaragua"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Amsterdam",
+    "code": "nl",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Netherlands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Oslo",
+    "code": "no",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Norway"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kathmandu",
+    "code": "np",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Nepal"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Yaren District",
+    "code": "nr",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Nauru"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Alofi",
+    "code": "nu",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Niue"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Wellington",
+    "code": "nz",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "New Zealand"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Muscat",
+    "code": "om",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Oman"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Panama City",
+    "code": "pa",
+    "continent": "North America",
+    "iso": true,
+    "name": "Panama"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Lima",
+    "code": "pe",
+    "continent": "South America",
+    "iso": true,
+    "name": "Peru"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Papeete",
+    "code": "pf",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "French Polynesia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Port Moresby",
+    "code": "pg",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Papua New Guinea"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Manila",
+    "code": "ph",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Philippines"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Islamabad",
+    "code": "pk",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Pakistan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Warsaw",
+    "code": "pl",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Poland"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Saint-Pierre",
+    "code": "pm",
+    "continent": "North America",
+    "iso": true,
+    "name": "Saint Pierre and Miquelon"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Adamstown",
+    "code": "pn",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Pitcairn"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "San Juan",
+    "code": "pr",
+    "continent": "North America",
+    "iso": true,
+    "name": "Puerto Rico"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Ramallah",
+    "code": "ps",
+    "continent": "Asia",
+    "iso": true,
+    "name": "State of Palestine"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Lisbon",
+    "code": "pt",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Portugal"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Ngerulmud",
+    "code": "pw",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Palau"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Asunci\u00f3n",
+    "code": "py",
+    "continent": "South America",
+    "iso": true,
+    "name": "Paraguay"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Doha",
+    "code": "qa",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Qatar"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Saint-Denis",
+    "code": "re",
+    "continent": "Africa",
+    "iso": true,
+    "name": "R\u00e9union"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bucharest",
+    "code": "ro",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Romania"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Belgrade",
+    "code": "rs",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Serbia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Moscow",
+    "code": "ru",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Russia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kigali",
+    "code": "rw",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Rwanda"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Riyadh",
+    "code": "sa",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Saudi Arabia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Honiara",
+    "code": "sb",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Solomon Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Victoria",
+    "code": "sc",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Seychelles"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Khartoum",
+    "code": "sd",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Sudan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Stockholm",
+    "code": "se",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Sweden"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Singapore",
+    "code": "sg",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Singapore"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Jamestown",
+    "code": "sh",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Saint Helena, Ascension and Tristan da Cunha"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Ljubljana",
+    "code": "si",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Slovenia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Longyearbyen",
+    "code": "sj",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Svalbard and Jan Mayen"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bratislava",
+    "code": "sk",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Slovakia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Freetown",
+    "code": "sl",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Sierra Leone"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "San Marino",
+    "code": "sm",
+    "continent": "Europe",
+    "iso": true,
+    "name": "San Marino"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Dakar",
+    "code": "sn",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Senegal"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Mogadishu",
+    "code": "so",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Somalia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Paramaribo",
+    "code": "sr",
+    "continent": "South America",
+    "iso": true,
+    "name": "Suriname"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Juba",
+    "code": "ss",
+    "continent": "Africa",
+    "iso": true,
+    "name": "South Sudan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "S\u00e3o Tom\u00e9",
+    "code": "st",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Sao Tome and Principe"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "San Salvador",
+    "code": "sv",
+    "continent": "North America",
+    "iso": true,
+    "name": "El Salvador"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Philipsburg",
+    "code": "sx",
+    "continent": "North America",
+    "iso": true,
+    "name": "Sint Maarten"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Damascus",
+    "code": "sy",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Syria"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Lobamba, Mbabane",
+    "code": "sz",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Eswatini"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "ta",
+    "iso": false,
+    "name": "Tristan da Cunha"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Cockburn Town",
+    "code": "tc",
+    "continent": "North America",
+    "iso": true,
+    "name": "Turks and Caicos Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "N'Djamena",
+    "code": "td",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Chad"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Saint-Pierre, R\u00e9union",
+    "code": "tf",
+    "continent": "Africa",
+    "iso": true,
+    "name": "French Southern Territories"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Lom\u00e9",
+    "code": "tg",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Togo"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Bangkok",
+    "code": "th",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Thailand"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Dushanbe",
+    "code": "tj",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Tajikistan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Nukunonu, Atafu,Tokelau",
+    "code": "tk",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Tokelau"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Dili",
+    "code": "tl",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Timor-Leste"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Ashgabat",
+    "code": "tm",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Turkmenistan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tunis",
+    "code": "tn",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Tunisia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Nuku\u02bbalofa",
+    "code": "to",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Tonga"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Ankara",
+    "code": "tr",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Turkey"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Port of Spain",
+    "code": "tt",
+    "continent": "South America",
+    "iso": true,
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Funafuti",
+    "code": "tv",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Tuvalu"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Taipei",
+    "code": "tw",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Taiwan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Dodoma",
+    "code": "tz",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Tanzania"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kiev",
+    "code": "ua",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Ukraine"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kampala",
+    "code": "ug",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Uganda"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Washington, D.C.",
+    "code": "um",
+    "continent": "North America",
+    "iso": true,
+    "name": "United States Minor Outlying Islands"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "un",
+    "iso": false,
+    "name": "United Nations"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Washington, D.C.",
+    "code": "us",
+    "continent": "North America",
+    "iso": true,
+    "name": "United States of America"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Montevideo",
+    "code": "uy",
+    "continent": "South America",
+    "iso": true,
+    "name": "Uruguay"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Tashkent",
+    "code": "uz",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Uzbekistan"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Vatican City",
+    "code": "va",
+    "continent": "Europe",
+    "iso": true,
+    "name": "Holy See"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Kingstown",
+    "code": "vc",
+    "continent": "North America",
+    "iso": true,
+    "name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Caracas",
+    "code": "ve",
+    "continent": "South America",
+    "iso": true,
+    "name": "Venezuela"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Road Town",
+    "code": "vg",
+    "continent": "North America",
+    "iso": true,
+    "name": "Virgin Islands (British)"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Charlotte Amalie",
+    "code": "vi",
+    "continent": "North America",
+    "iso": true,
+    "name": "Virgin Islands (U.S.)"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Hanoi",
+    "code": "vn",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Vietnam"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Port Vila",
+    "code": "vu",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Vanuatu"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Mata-Utu",
+    "code": "wf",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Wallis and Futuna"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Apia",
+    "code": "ws",
+    "continent": "Oceania",
+    "iso": true,
+    "name": "Samoa"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Pristina",
+    "code": "xk",
+    "continent": "Europe",
+    "iso": false,
+    "name": "Kosovo"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "code": "xx",
+    "iso": false,
+    "name": "Unknown"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Sana'a",
+    "code": "ye",
+    "continent": "Asia",
+    "iso": true,
+    "name": "Yemen"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Mamoudzou",
+    "code": "yt",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Mayotte"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Pretoria",
+    "code": "za",
+    "continent": "Africa",
+    "iso": true,
+    "name": "South Africa"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Lusaka",
+    "code": "zm",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Zambia"
+  },
+  {
+    "bollard": "bollards/default.svg",
+    "capital": "Harare",
+    "code": "zw",
+    "continent": "Africa",
+    "iso": true,
+    "name": "Zimbabwe"
+  }
+]
