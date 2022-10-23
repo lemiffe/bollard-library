@@ -1,86 +1,123 @@
-.hide {
-  display: none;
-}
-
 .header {
-  margin: 0 0 48px;
-  padding: 32px 0;
-  text-align: center;
-  background: rgb(20,0,36);
-  background: linear-gradient(118deg, rgba(20,0,36,1) 0%, rgba(105,9,121,1) 42%, rgba(158,21,102,1) 100%);
-  color: #fff;
-  font-size: 1.1em;
+    margin: 0 0 48px;
+    padding: 32px 0;
+    text-align: center;
+    background: rgb(20,0,36);
+    background: linear-gradient(118deg, rgba(20,0,36,1) 0%, rgba(105,9,121,1) 42%, rgba(158,21,102,1) 100%);
+    color: #fff;
+    font-size: 1.1em;
 }
 
 .header .btn {
-  margin: 0 4px;
+    margin: 0 4px;
 }
 
 .header pre {
-  background-color: rgba(32, 32, 32, 0.3);
-  padding: 8px;
-  max-width: 320px;
-  margin: 12px auto;
-  border-radius: 4px;
+    background-color: rgba(32, 32, 32, 0.3);
+    padding: 8px;
+    max-width: 320px;
+    margin: 12px auto;
+    border-radius: 4px;
 }
 
 h2 {
-  text-align: center;
-  margin: 32px 0;
+    text-align: center;
+    margin: 32px 0;
 }
 
 .no-wrap {
-  white-space: nowrap;
-  margin-bottom: 8px;
-  overflow: hidden;
-  text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 8px;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-.bollard {
-  border-radius: 5px;
-  margin-bottom: 32px;
-  padding: 8px;
-  background: #22c1a1;
-  background: linear-gradient(0deg, #079691 4%, #2dd4b3 100%);
+.bollard-container {
+    border-radius: 5px;
+    margin-bottom: 32px;
+    padding: 8px;
+    position: relative;
+    background: #22c1a1;
+    background: linear-gradient(0deg, #079691 4%, #2dd4b3 100%);
 }
 
-.bollard-country {
-  width: 100%;
-  color: #ffffff;
+.bollard-container .country-info {
+    width: 100%;
+    color: #ffffff;
 }
 
-.bollard-img {
-  width: 100%;
+.bollard-container .country-info .bollard-code {
+    color: #f8f6f6;
+    font-weight: 600;
+}
+
+.bollard-container .bollards {
+    width: 100%;
+    border-radius: 2px;
+    overflow: hidden;
+    background: hsla(184, 38%, 91%, 1);
+
+background: linear-gradient(270deg, hsla(184, 38%, 91%, 1) 0%, hsla(203, 51%, 74%, 1) 43%, hsla(224, 45%, 71%, 1) 75%, hsla(17, 28%, 39%, 1) 75%, hsla(26, 28%, 48%, 1) 93%);
+background: -moz-linear-gradient(270deg, hsla(184, 38%, 91%, 1) 0%, hsla(203, 51%, 74%, 1) 43%, hsla(224, 45%, 71%, 1) 75%, hsla(17, 28%, 39%, 1) 75%, hsla(26, 28%, 48%, 1) 93%);
+background: -webkit-linear-gradient(270deg, hsla(184, 38%, 91%, 1) 0%, hsla(203, 51%, 74%, 1) 43%, hsla(224, 45%, 71%, 1) 75%, hsla(17, 28%, 39%, 1) 75%, hsla(26, 28%, 48%, 1) 93%);
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#E0F0F1", endColorstr="#99C4DE", GradientType=1 );
+    padding-top: 10px;
+}
+
+.bollard-container .bollards .glider-slide {
+    text-align: center;
+}
+
+.bollard-container .bollards .bollard-img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+}
+
+.bollard-container .bollards .bollard-half {
+  width: 35%;
+  height: 100%;
+  margin: 0 auto;
   aspect-ratio: 1 / 1;
-  border-radius: 2px;
-  overflow: hidden;
-  background: #f5f2f5;
-  background: linear-gradient(0deg, #d9eae7 4%, #eef4f4 100%);
-  padding-top: 10px;
 }
 
-.bollard-code {
-  color: #f8f6f6;
-  font-weight: 600;
+.bollard-container .glider-prev,
+.bollard-container .glider-next {
+  top: 40%;
+}
+
+.bollard-container .glider-prev {
+    left: 14px;
+}
+
+.bollard-container .glider-next {
+    right: 14px;
+}
+
+.bollard-container .glider-dot:hover,
+.bollard-container .glider-dot:focus,
+.bollard-container .glider-dot.active {
+  background: #34e1be;
 }
 
 .switch {
-  position: fixed;
-  bottom: 4px;
-  left: 4px;
-  display: flex;
-  flex-direction: column;
-  width: 48px;
+  text-align: center;
 }
 
-.switch a {
-  text-decoration: none;
-  padding: 4px;
-  margin: 4px;
-  border-radius: 4px;
-  border: 1px solid #868e96;
-  text-align: center;
-  width: 100%;
-  color: #343a40;
-  background-color: #e9ecef;
+.hide {
+    display: none;
+}
+
+.btn-success, .btn-success:link {
+    background-color: #22c1a1;
+    border-color: #22c1a1;
+}
+
+.btn-success:hover, .btn-success:focus, .btn-success:active {
+    background-color: #19a387;
+    border-color: #19a387;
+}
+
+.btn-success.disabled, .btn-success:disabled {
+    background-color: #3f8678;
+    border-color: #3f8678;
 }
